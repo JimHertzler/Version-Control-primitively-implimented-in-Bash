@@ -1,5 +1,5 @@
 # Version-Control-primitively-implimented-in-Bash
-This is a "Bash Script" that has save me much trouble, down through the years.
+This is a "Bash Script" that has saved me much trouble, down through the years.
 When run in your working-directory, it archives all the files in your working-directory.
 The script creates a sub-directory named "Git", then copies any new files to that sub-directory.
 The name of a new copy is the old-file-name with "0_" prepended.
